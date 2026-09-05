@@ -210,22 +210,3 @@ The Apocolypse Food Prep Analysis project demonstrates how retail food pricing d
 Excel was used for organizing the data and creating PivotTable-based analysis, while Power BI was used to create an interactive visual dashboard.
 
 This project helped strengthen my practical skills in Excel, PivotTables, data analysis, Power BI, data visualization, and business insight generation.
-
-
-### A small correction for your Power BI dashboard
-
-I recommend changing:
-
-**`Best Store for Product`**
-
-to:
-
-**`Product Price Comparison by Store`**
-
-because your chart is comparing **prices**, not determining which store is objectively "best."
-
-Also, your first chart can stay as:
-
-**`Total Price by Store`**
-
-That will make the dashboard wording more accurate and professional for your GitHub portfolio
